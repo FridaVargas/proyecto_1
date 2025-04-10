@@ -44,7 +44,6 @@ Archivo: `falling-sand.nlogo`
 ---
 
 ## 3. Juego de la Vida
-![Vida](https://github.com/user-attachments/assets/b3e0ff8c-6957-4d60-b83b-fa7cf492bbf9)
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/b3e0ff8c-6957-4d60-b83b-fa7cf492bbf9" alt=" Juego de la vida">
