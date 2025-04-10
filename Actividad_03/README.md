@@ -45,10 +45,7 @@ Archivo: `falling-sand.nlogo`
 
 ## 3. Juego de la Vida
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/c0dede0b-a120-417f-9078-c42a1f19ef73" alt=" Juego de la Vida">
-</p>
-
+![Vida](https://github.com/user-attachments/assets/50697d49-dd56-4653-acfc-5b8ea62b165d)
 
 Implementación del clásico modelo de **John Conway**. Cada celda vive, muere o revive dependiendo del número de vecinos vivos. Además, las celdas muertas cambian gradualmente de color para mostrar cuánto tiempo llevan sin actividad.
 
