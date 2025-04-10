@@ -44,9 +44,7 @@ Además, el modelo selecciona **una luciérnaga al azar** (`luciernaga_muestra`)
 
 ---
 
-## Autora
-
-Frida Michelle Vargas Bautista
+Esta actividad fue desarrollada por Frida Vargas como parte de las prácticas del curso Proyecto I (Facultad de Ciencias, UNAM)
 
 ---
 
