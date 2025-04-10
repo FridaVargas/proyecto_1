@@ -16,7 +16,7 @@ Esta actividad forma parte del curso *Proyecto I*, impartido por el **Biol. Luis
 ## 1. Autómata Celular Elemental
 
 <p align="center">
-  <img src="ruta/al/gif_automata_elemental.gif" width="500"/>
+  <img src="https://github.com/user-attachments/assets/4e8172c3-f4a5-4894-93cc-2efc9fad31f6" />
 </p>
 
 Este modelo genera patrones lineales basados en reglas binarias (como la Regla 30 o 110). A partir de una fila inicial, cada celda evoluciona según el estado de sus vecinas inmediatas, formando estructuras que pueden ser caóticas o repetitivas.
@@ -31,7 +31,7 @@ Archivo: `AutomataElemental.nlogo`
 ## 2. Falling Sand
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e41147ee-5916-44f3-b65c-2e61bf16dfae" alt=" Falling Sand">
+  <img src="https://github.com/user-attachments/assets/a12976db-5f43-49b7-9352-3e4823456e55" alt=" Falling Sand">
 </p>
 
 Una simulación visual de caída de partículas de arena. Los granos intentan caer verticalmente, pero si hay obstáculos, se desvían diagonalmente o lateralmente, generando una acumulación natural.
@@ -45,7 +45,9 @@ Archivo: `falling-sand.nlogo`
 
 ## 3. Juego de la Vida
 
-![Vida](https://github.com/user-attachments/assets/50697d49-dd56-4653-acfc-5b8ea62b165d)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/115a853e-3d69-4b36-9243-44ffa84bdbe8" alt=" Juego de la vida">
+</p>
 
 Implementación del clásico modelo de **John Conway**. Cada celda vive, muere o revive dependiendo del número de vecinos vivos. Además, las celdas muertas cambian gradualmente de color para mostrar cuánto tiempo llevan sin actividad.
 
@@ -57,8 +59,6 @@ Archivo: `JuegoDeLaVida.nlogo`
 ---
 
 ## 4. Hormiga de Langton (otro autómata)
-
-![Hormiga](https://github.com/user-attachments/assets/aad1b79b-b156-4831-b839-cfe45fccdbda)
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/aad1b79b-b156-4831-b839-cfe45fccdbda" alt=" Hormiga">
