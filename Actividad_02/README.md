@@ -5,7 +5,7 @@ Esta actividad forma parte del curso *Proyecto 1*, impartido por el **Biol. Luis
 ---
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/41c28afb-7397-46b6-8ece-dd81cecc09ce" alt="Luciérnagas" width="500"/>
+  <img src="https://github.com/user-attachments/assets/41c28afb-7397-46b6-8ece-dd81cecc09ce" alt="Luciérnagas" />
 </p>
 
 ## Descripción del modelo
