@@ -4,15 +4,20 @@
 
 A continuación se muestran algunas de las simulaciones realizadas en el curso *Proyecto I*, organizadas por tema. Cada gif corresponde a un modelo basado en agentes desarrollado en NetLogo.
 
-<p align="center">
-  <img src="GIFs/SchellingGrupos.gif" alt="Schelling Grupos" width="200">
-  <img src="GIFs/SchellingPreferencias.gif" alt="Schelling Preferencias" width="200">
-  <img src="GIFs/Luciernagas.gif" alt="Luciérnagas" width="200">
-  <img src="GIFs/Automata.gif" alt="Autómata elemental" width="200">
-  <img src="GIFs/Vida.gif" alt="Juego de la vida" width="200">
-  <img src="GIFs/Hormiga.gif" alt="Hormiga de Langton" width="200">
-  <img src="GIFs/Arena.gif" alt="Arena" width="200">
-  <img src="GIFs/Variante1.gif" alt="Variante 1 RSP" width="200">
-  <img src="GIFs/Variante2.gif" alt="Variante 2 RSP" width="200">
-</p>
-
+<table>
+  <tr>
+    <td align="center"><img src="GIFs/SchellingGrupos.gif" width="200"><br>Schelling: múltiples grupos</td>
+    <td align="center"><img src="GIFs/SchellingPreferencias.gif" width="200"><br>Schelling: distintas preferencias</td>
+    <td align="center"><img src="GIFs/Luciernagas.gif" width="200"><br>Sincronización de luciérnagas</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="GIFs/Vida.gif" width="200"><br>Juego de la vida</td>
+    <td align="center"><img src="GIFs/Hormiga.gif" width="200"><br>Hormiga de Langton</td>
+    <td align="center"><img src="GIFs/Arena.gif" width="200"><br>Modelo de arena</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="GIFs/Variante1.gif" width="200"><br>Competencia local/global</td>
+    <td align="center"><img src="GIFs/Variante2.gif" width="200"><br>Competencia + eventos</td>
+    <td></td>
+  </tr>
+</table>
