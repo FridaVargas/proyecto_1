@@ -13,13 +13,10 @@ A continuación, una galería visual con algunos de los modelos desarrollados du
     <td align="center"><img src="GIFs/SchellingGrupos.gif" width="200"><br><b>Schelling: múltiples grupos</b></td>
     <td align="center"><img src="GIFs/SchellingPreferencias.gif" width="200"><br><b>Schelling: distintas preferencias</b></td>
     <td align="center"><img src="GIFs/Luciernagas.gif" width="200"><br><b>Sincronización de luciérnagas</b></td>
-  </tr>
-  <tr>
     <td align="center"><img src="GIFs/Vida.gif" width="200"><br><b>Juego de la vida</b></td>
+  </tr>
     <td align="center"><img src="GIFs/Hormiga.gif" width="200"><br><b>Hormiga de Langton</b></td>
     <td align="center"><img src="GIFs/Arena.gif" width="200"><br><b>Modelo de arena</b></td>
-  </tr>
-  <tr>
     <td align="center"><img src="GIFs/Variante1.gif" width="200"><br><b>Competencia local/global</b></td>
     <td align="center"><img src="GIFs/Variante2.gif" width="200"><br><b>Competencia + eventos</b></td>
     <td></td>
