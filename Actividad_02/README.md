@@ -34,13 +34,6 @@ Además, el modelo selecciona **una luciérnaga al azar** (`luciernaga_muestra`)
 
 ---
 
-## Observaciones
-
-- Inicialmente las luciérnagas destellan de forma desordenada.
-- Con el tiempo, gracias a los ajustes por estímulos visuales, la población entra en sincronía colectiva.
-- El fenómeno es una forma de comportamiento emergente en sistemas de osciladores acoplados.
-
----
 
 ## Requisitos
 
