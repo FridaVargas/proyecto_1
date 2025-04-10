@@ -30,9 +30,9 @@ Archivo: `AutomataElemental.nlogo`
 
 ## 2. Falling Sand
 
-<div align="center">
+<p align="center">
   <img src="https://github.com/user-attachments/assets/e41147ee-5916-44f3-b65c-2e61bf16dfae" alt=" Falling Sand">
-</div>
+</p>
 
 Una simulación visual de caída de partículas de arena. Los granos intentan caer verticalmente, pero si hay obstáculos, se desvían diagonalmente o lateralmente, generando una acumulación natural.
 
@@ -45,9 +45,9 @@ Archivo: `falling-sand.nlogo`
 
 ## 3. Juego de la Vida
 
-<div align="center">
+<p align="center">
   <img src="https://github.com/user-attachments/assets/c0dede0b-a120-417f-9078-c42a1f19ef73" alt=" Juego de la Vida">
-</div>
+</p>
 
 
 Implementación del clásico modelo de **John Conway**. Cada celda vive, muere o revive dependiendo del número de vecinos vivos. Además, las celdas muertas cambian gradualmente de color para mostrar cuánto tiempo llevan sin actividad.
@@ -61,9 +61,9 @@ Archivo: `JuegoDeLaVida.nlogo`
 
 ## 4. Hormiga de Langton (otro autómata)
 
-<div align="center">
+<p align="center">
   <img src="https://github.com/user-attachments/assets/a24ed0d2-cd78-40bc-b840-9e1459fdfc49" alt=" Hormiga de Langton" >
-</div>
+</p>
 
 Modelo que simula una simple "hormiga" que sigue dos reglas:  
 - Si está en un cuadrado blanco, gira a la izquierda, cambia el color a negro y avanza.  
