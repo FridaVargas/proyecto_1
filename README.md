@@ -17,8 +17,8 @@ A continuación, una galería visual con algunos de los modelos desarrollados du
   </tr>
     <td align="center"><img src="GIFs/Hormiga.gif" width="200"><br><b>Hormiga de Langton</b></td>
     <td align="center"><img src="GIFs/Arena.gif" width="200"><br><b>Modelo de arena</b></td>
-    <td align="center"><img src="GIFs/Variante1.gif" width="200"><br><b>Competencia local/global</b></td>
-    <td align="center"><img src="GIFs/Variante2.gif" width="200"><br><b>Competencia + eventos</b></td>
+    <td align="center"><img src="GIFs/Variante1.gif" width="200"><br><b>Competencia 1</b></td>
+    <td align="center"><img src="GIFs/Variante2.gif" width="200"><br><b>Competencia 2</b></td>
     <td></td>
   </tr>
 </table>
