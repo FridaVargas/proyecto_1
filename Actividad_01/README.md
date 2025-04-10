@@ -14,13 +14,15 @@ Modelo básico de segregación de Schelling. Los agentes se mueven si no están 
 ### 2. `segregacion_diferentes_preferencias.nlogo`
 
 <p align="center">
-  <img src="ruta/al/archivo.gif" alt="Descripción" width="500">
+  <img src="Actividad_01/gifs/SchellingGrupos.gif" alt="Grupos" width="500">
 </p>
 
 Extensión del modelo anterior donde los agentes pertenecen a distintos grupos y cada grupo tiene un nivel distinto de tolerancia (preferencia mínima).
 
 ### 3. `segregacion_multiples_grupos.nlogo`
-![SchellingGrupos](https://github.com/user-attachments/assets/b7519857-ec65-41ed-b014-1f0a2cf6cde7)
+<p align="center">
+  <img src="Actividad_01/gifs/SchellingGrupos.gif" alt="Grupos" width="500">
+</p>
 Versión con múltiples grupos (hasta 9), cada uno con su propio color. Se exploran patrones de segregación más complejos.
 
 ---
