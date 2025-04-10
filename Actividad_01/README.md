@@ -43,7 +43,6 @@ Versión con múltiples grupos (hasta 9), cada uno con su propio color. Se explo
 
 - Se pueden observar patrones de segregación emergente incluso cuando los agentes tienen preferencias moderadas.
 - A mayor número de grupos, la segregación tiende a ser más dispersa y compleja.
-- Los GIFs incluidos permiten visualizar rápidamente el comportamiento del modelo.
 
 ---
 
