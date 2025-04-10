@@ -59,6 +59,11 @@ Archivo: `JuegoDeLaVida.nlogo`
 ## 4. Hormiga de Langton (otro autómata)
 
 ![Hormiga](https://github.com/user-attachments/assets/aad1b79b-b156-4831-b839-cfe45fccdbda)
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/aad1b79b-b156-4831-b839-cfe45fccdbda" alt=" Hormiga">
+</p>
+
 Modelo que simula una simple "hormiga" que sigue dos reglas:  
 - Si está en un cuadrado blanco, gira a la izquierda, cambia el color a negro y avanza.  
 - Si está en un cuadrado negro, gira a la derecha, cambia a blanco y avanza.
