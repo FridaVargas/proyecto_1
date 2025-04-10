@@ -1,4 +1,4 @@
-# Actividad 04: Reflexión y Práctica sobre Modelos Basados en Agentes
+# Actividad 04: Juego de la vida y autómata elemental
 
 Esta actividad forma parte del curso *Proyecto 1*, impartido por el **Biol. Luis Guillermo García Jácome**. 
 
