@@ -3,7 +3,12 @@
 
 Este repositorio reúne mis prácticas del curso **Proyecto I** de la Facultad de Ciencias de la UNAM, impartido por el **Biol. Luis Guillermo García Jácome**. A lo largo del semestre exploramos, con ayuda de **NetLogo**, cómo reglas simples a nivel local pueden dar lugar a comportamientos sorprendentes y complejos a nivel global.
 
-Uno de los momentos más significativos para mí fue descubrir el **poder del modelado basado en agentes (MBA)**. Creo firmemente que es una herramienta poderosa para representar sistemas complejos, dinámicas sociales, ecológicas y patrones emergentes.
+Uno de los momentos más significativos para mí fue descubrir el **poder del modelado basado en agentes (MBA)**. Creo firmemente que es una herramienta poderosa para estudiar sistemas complejos, dinámicas sociales, ecológicas y patrones emergentes.
+
+> Como alguna vez dijo mi profesor de Biología de la prepa:  
+> *"Si nuestro cuerpo funciona es porque nuestras células se comunican."*  
+> Esta idea me acompaña todavía, y cobra vida en estos modelos donde agentes simples, al interactuar, dan lugar a algo mucho más grande y complejo.
+
 
 ## 🎞️ Visualización de simulaciones
 A continuación, una galería visual con algunos de los modelos desarrollados durante el curso:
