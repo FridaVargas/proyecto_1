@@ -3,8 +3,10 @@
 Esta actividad forma parte del curso *Proyecto 1*, impartido por el **Biol. Luis Guillermo García Jácome**, y tiene como objetivo modelar la sincronización colectiva en poblaciones de luciérnagas mediante reglas simples de interacción local. El modelo fue implementado en el entorno de simulación **NetLogo**.
 
 ---
-![Luciernagas](https://github.com/user-attachments/assets/41c28afb-7397-46b6-8ece-dd81cecc09ce)
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/41c28afb-7397-46b6-8ece-dd81cecc09ce" alt="Luciérnagas" width="500"/>
+</p>
 
 ## Descripción del modelo
 
