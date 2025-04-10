@@ -16,8 +16,8 @@ https://curso-modelos-basados-en-agentes.github.io/curso_MBA/practica_04/
 </p>
 
 - **`automata_RSP.nlogo`**: Versión base del modelo para referencia, con reglas de dominancia entre colores pero sin dinámica estocástica de eventos.
-- 
-<p align="center">
+  
+<p align="left">
   <img src="https://github.com/user-attachments/assets/48946014-d515-4769-b9d7-320852857e4d" />
 </p>
 
