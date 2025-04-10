@@ -12,6 +12,7 @@ Se presentan tres variantes del modelo básico, enfocadas en diferentes mecanism
 Modelo básico de segregación de Schelling. Los agentes se mueven si no están satisfechos con la proporción de vecinos similares.
 
 ### 2. `segregacion_diferentes_preferencias.nlogo`
+![SchellingPreferencias](https://github.com/user-attachments/assets/6c81dd42-feea-4fba-9f38-11b09100a971)
 Extensión del modelo anterior donde los agentes pertenecen a distintos grupos y cada grupo tiene un nivel distinto de tolerancia (preferencia mínima).
 
 ### 3. `segregacion_multiples_grupos.nlogo`
